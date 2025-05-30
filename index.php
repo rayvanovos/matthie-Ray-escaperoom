@@ -14,8 +14,7 @@
   <!-- De button hieronder is alleen voor testdoeleinden bij het opstarten van het project.
      Deze pagina is bedoeld voor de uitleg van jullie escape room. -->
 
-  <button><a href="room_1.php">Klik hier voor een demonstratie van kamer 1</a></button>
+  <button><a href="room_1.php">click here to start</a></button>
 
 </body>
-
 </html>
